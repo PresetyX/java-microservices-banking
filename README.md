@@ -1,3 +1,5 @@
+🌐 **English** | [Português (BR)](README.pt-BR.md)
+
 # Java Banking Microservices
 
 Educational banking platform built with Java 21, Spring Boot, PostgreSQL, Kafka, Docker Compose, and JWT-based authentication.

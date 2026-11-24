@@ -54,3 +54,7 @@ Run each service from its directory with `./mvnw spring-boot:run` or `mvn spring
 ## Disclaimer
 
 Educational project only. It does not implement the regulatory, operational, security, auditing, resilience, and compliance requirements of a real financial institution.
+
+## Development history
+
+This project was developed locally between 2025-11-26 and 2026-09-19. The commit history was created afterwards, and the commit dates were adjusted to match the period in which the work was actually done.
